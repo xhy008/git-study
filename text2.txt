@@ -1,0 +1,4 @@
+Java Power Tools - 第 235 页 - Google 图书结果
+https://books.google.com.hk/books?isbn=0596527934 - 翻译此页
+John Smart - 2008 - ‎Computers
+Subversion is a very flexible tool, and it is easy to extend its features to suit your ... to force users to include a reference to a bug number in their commit message. ... If this script returns a nonzero result, the commit will be aborted. post-commit ...
